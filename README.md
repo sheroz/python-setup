@@ -19,5 +19,15 @@ pip 22.2.2 from /opt/homebrew/lib/python3.10/site-packages/pip (python 3.10)
 
 Python 3.10.6
 
+# Project setup
+## Creating a virtual environment 
+>python3 -m venv .venv
+
+## Activating virtual environment
+>source .venv/bin/activate
+
+## Deactivating virtual environment
+>deactivate
+
 ## Useful resources: 
 https://opensource.com/article/19/5/python-3-default-mac
