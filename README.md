@@ -1,9 +1,12 @@
 
-brew install python
+>brew install python
 
-brew update && brew upgrade python 
+>brew update && brew upgrade python 
 
-alias python=/opt/homebrew/bin/python3
+>alias python=/opt/homebrew/bin/python3
 
-python --version
+>python --version
+
+resource: 
+https://opensource.com/article/19/5/python-3-default-mac
 
